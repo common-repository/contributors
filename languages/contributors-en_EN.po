@@ -1,0 +1,84 @@
+# Copyright (C) 2016 Contributors
+# This file is distributed under the same license as the Contributors package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Contributors 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/contributors\n"
+"POT-Creation-Date: 2017-01-02 15:25+0100\n"
+"PO-Revision-Date: 2017-01-02 15:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin-home-data.php:6
+msgid "Welcome"
+msgstr "Welcome"
+
+#: admin-home-data.php:10
+msgid "Who is behind %s?"
+msgstr "Who is behind %s?"
+
+#: admin-home-data.php:18
+msgid "welcome on %s"
+msgstr "welcome on %s"
+
+#: admin-home-tab1.php:6
+msgid "See all posts"
+msgstr "See all posts"
+
+#: admin-home-tab1.php:7
+msgid "Add new post"
+msgstr "Add new post"
+
+#: admin-home-tab1.php:8
+msgid "Edit my profil"
+msgstr "Edit my profil"
+
+#: admin-home-tab2.php:6
+msgid "Here's a few people working on this website:"
+msgstr "Here's a few people working on this website:"
+
+#: admin-home-tab2.php:33
+msgid "1 post."
+msgid_plural "%d posts."
+msgstr[0] "1 post."
+msgstr[1] "%d posts."
+
+#: contributors.php:137
+msgid " HomePage"
+msgstr " HomePage"
+
+#: contributors.php:144 contributors.php:145
+msgid "Who is managing this website ?"
+msgstr "Who is managing this website ?"
+
+#. Plugin Name of the plugin/theme
+msgid "Contributors"
+msgstr "Contributors"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.seomix.fr"
+msgstr "https://www.seomix.fr"
+
+#. Description of the plugin/theme
+msgid "A WordPress plugin to display a contributors page on admin pages."
+msgstr "A WordPress plugin to display a contributors page on admin pages."
+
+#. Author of the plugin/theme
+msgid "Daniel Roch"
+msgstr "Daniel Roch"
+
+#. Author URI of the plugin/theme
+msgid "http://www.seomix.fr"
+msgstr "http://www.seomix.fr"
+
+#~ msgid "welcome on "
+#~ msgstr "welcome on "
+
+#~ msgid "Who is behind "
+#~ msgstr "Who is behind "
